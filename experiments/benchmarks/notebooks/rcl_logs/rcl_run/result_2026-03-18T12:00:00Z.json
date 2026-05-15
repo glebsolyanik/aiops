@@ -1,0 +1,5 @@
+{
+    "timestamp": "2026-03-18T12:00:00Z",
+    "service": "profile",
+    "reason": "Profile service latency (~5.9\u202fs) dominates the total request time, driven mainly by the mongo_profile operation (~2.75\u202fs) within the GetProfiles call. No deeper downstream spans show additional delays, indicating the profile service (specifically its database query) is the root cause."
+}

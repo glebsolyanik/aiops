@@ -1,0 +1,9 @@
+{"time":"2026-03-18T11:35:58.263457+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/Users/glebsolanik/work/r_m_r/sbertech/sre/experiments/benchmarks/notebooks/wandb/run-20260318_113558-goydf40s/logs/debug-core.log"}
+{"time":"2026-03-18T11:35:58.80957+03:00","level":"INFO","msg":"created new stream","id":"goydf40s"}
+{"time":"2026-03-18T11:35:58.809608+03:00","level":"INFO","msg":"stream: started","id":"goydf40s"}
+{"time":"2026-03-18T11:35:58.810105+03:00","level":"INFO","msg":"handler: started","stream_id":"goydf40s"}
+{"time":"2026-03-18T11:35:58.810193+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"goydf40s"}
+{"time":"2026-03-18T11:35:58.810293+03:00","level":"INFO","msg":"sender: started","stream_id":"goydf40s"}
+{"time":"2026-03-18T11:35:59.712541+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2026-03-18T11:36:47.420816+03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2026-03-18T11:36:47.424398+03:00","level":"INFO","msg":"Resuming system monitor"}

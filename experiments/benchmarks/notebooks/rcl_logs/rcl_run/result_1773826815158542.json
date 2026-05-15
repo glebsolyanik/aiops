@@ -1,0 +1,5 @@
+{
+    "timestamp": "1773826815158542",
+    "service": "rate",
+    "reason": "Rate service GetRates call exhibits high latency (~1\u202fs) and is the dominant contributor to the overall 3.1\u202fs frontend request time."
+}

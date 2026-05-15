@@ -1,0 +1,5 @@
+{
+    "timestamp": "2026-03-18T12:05:00Z",
+    "service": "profile",
+    "reason": "The profile service shows a total latency of ~936\u202fms (memcached 172\u202fms + mongo_profile 721\u202fms). The mongo_profile DB call dominates (~721\u202fms), far exceeding the recommendation call (68\u202fms) and causing the overall frontend latency of 2284\u202fms. Hence the profile service (specifically its MongoDB query) is the root cause."
+}

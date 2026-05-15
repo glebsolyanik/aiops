@@ -1,0 +1,5 @@
+{
+    "timestamp": "2024-11-01T12:34:56Z",
+    "service": "geo",
+    "reason": "The /geo.Geo/Nearby call takes ~370\u202fms, constituting a large portion of the overall Search/Nearby latency (~1\u202fs) and is the primary contributor to the high latency observed in the frontend request."
+}

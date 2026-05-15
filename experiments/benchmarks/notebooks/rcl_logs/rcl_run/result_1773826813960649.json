@@ -1,0 +1,5 @@
+{
+    "timestamp": "1773826813960649",
+    "service": "profile",
+    "reason": "Elevated latency (\u2248600\u202fms) observed in Profile service, driven primarily by the mongo_profile DB call (~376\u202fms), indicating a downstream database slowdown."
+}

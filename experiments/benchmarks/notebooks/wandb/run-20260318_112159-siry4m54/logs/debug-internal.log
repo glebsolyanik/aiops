@@ -1,0 +1,11 @@
+{"time":"2026-03-18T11:22:10.037611+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/Users/glebsolanik/work/r_m_r/sbertech/sre/experiments/benchmarks/notebooks/wandb/run-20260318_112159-siry4m54/logs/debug-core.log"}
+{"time":"2026-03-18T11:22:10.569935+03:00","level":"INFO","msg":"created new stream","id":"siry4m54"}
+{"time":"2026-03-18T11:22:10.569971+03:00","level":"INFO","msg":"stream: started","id":"siry4m54"}
+{"time":"2026-03-18T11:22:10.569996+03:00","level":"INFO","msg":"sender: started","stream_id":"siry4m54"}
+{"time":"2026-03-18T11:22:10.570009+03:00","level":"INFO","msg":"handler: started","stream_id":"siry4m54"}
+{"time":"2026-03-18T11:22:10.570173+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"siry4m54"}
+{"time":"2026-03-18T11:22:11.670681+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2026-03-18T12:04:27.838267+03:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2026-03-18T12:04:30.40232+03:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.10.80.132:51380->35.186.228.49:443: read: operation timed out"}
+{"time":"2026-03-18T12:53:23.530142+03:00","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/files/workglebsol-own/AIOpsLab/siry4m54/file_stream"}
+{"time":"2026-03-18T12:53:23.53221+03:00","level":"ERROR+4","msg":"filestream: fatal error: filestream: failed to upload: 404 Not Found path=files/workglebsol-own/AIOpsLab/siry4m54/file_stream: {\"error\":\"run AIOpsLab/siry4m54 not found while streaming file\"}"}

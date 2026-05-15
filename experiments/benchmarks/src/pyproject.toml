@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "benchmarks-src"
+version = "0.1.0"
+description = "Reusable helpers for benchmark analysis"
+authors = ["Gleb"]
+packages = [{ include = "analyze" }]
+
+[tool.poetry.dependencies]
+python = ">=3.11,<3.13"
+ipython = "*"
+pandas = "*"
+aiopslab = { path = "../AIOpsLab", develop = true }
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

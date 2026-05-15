@@ -1,0 +1,19 @@
+{"time":"2026-03-18T10:43:36.870878+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/Users/glebsolanik/work/r_m_r/sbertech/sre/experiments/benchmarks/notebooks/wandb/run-20260318_104336-5aod83yi/logs/debug-core.log"}
+{"time":"2026-03-18T10:43:37.861716+03:00","level":"INFO","msg":"created new stream","id":"5aod83yi"}
+{"time":"2026-03-18T10:43:37.861836+03:00","level":"INFO","msg":"stream: started","id":"5aod83yi"}
+{"time":"2026-03-18T10:43:37.861852+03:00","level":"INFO","msg":"sender: started","stream_id":"5aod83yi"}
+{"time":"2026-03-18T10:43:37.861836+03:00","level":"INFO","msg":"handler: started","stream_id":"5aod83yi"}
+{"time":"2026-03-18T10:43:37.861859+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"5aod83yi"}
+{"time":"2026-03-18T10:43:38.930319+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2026-03-18T10:44:26.415507+03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2026-03-18T10:44:26.430892+03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2026-03-18T10:45:36.397342+03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2026-03-18T10:45:36.426629+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2026-03-18T10:45:36.426751+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2026-03-18T10:45:37.437635+03:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.211371125},{"desc":"uploading wandb-summary.json","runtime_seconds":0.210680875,"progress":"2.3KB/2.3KB"}],"total_operations":2}}
+{"time":"2026-03-18T10:45:37.993576+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-03-18T10:45:38.72814+03:00","level":"INFO","msg":"stream: closing","id":"5aod83yi"}
+{"time":"2026-03-18T10:45:38.7282+03:00","level":"INFO","msg":"sender: closed","stream_id":"5aod83yi"}
+{"time":"2026-03-18T10:45:38.728383+03:00","level":"INFO","msg":"handler: closed","stream_id":"5aod83yi"}
+{"time":"2026-03-18T10:45:38.728409+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"5aod83yi"}
+{"time":"2026-03-18T10:45:38.72843+03:00","level":"INFO","msg":"stream: closed","id":"5aod83yi"}

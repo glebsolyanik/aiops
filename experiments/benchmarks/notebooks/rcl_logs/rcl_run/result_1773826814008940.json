@@ -1,0 +1,5 @@
+{
+    "timestamp": "1773826814008940",
+    "service": "rate",
+    "reason": "Slow memcached_get_multi_rate (\u224823\u202fs) inside rate service causes high latency in /rate.Rate/GetRates, propagating to search and frontend, resulting in the 36\u202fs overall request time."
+}

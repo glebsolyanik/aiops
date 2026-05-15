@@ -1,0 +1,5 @@
+{
+    "timestamp": "1773826813913322",
+    "service": "profile",
+    "reason": "MongoDB query (mongo_profile) latency ~721\u202fms dominates the profile service latency, inflating the overall request time and causing the high frontend response latency."
+}
