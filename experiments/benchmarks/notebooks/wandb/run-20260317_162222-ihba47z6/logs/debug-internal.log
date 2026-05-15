@@ -1,9 +1,0 @@
-{"time":"2026-03-17T16:22:39.49577+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/Users/glebsolanik/work/r_m_r/sbertech/sre/experiments/benchmarks/notebooks/wandb/run-20260317_162222-ihba47z6/logs/debug-core.log"}
-{"time":"2026-03-17T16:22:40.015773+03:00","level":"INFO","msg":"created new stream","id":"ihba47z6"}
-{"time":"2026-03-17T16:22:40.015812+03:00","level":"INFO","msg":"handler: started","stream_id":"ihba47z6"}
-{"time":"2026-03-17T16:22:40.01596+03:00","level":"INFO","msg":"stream: started","id":"ihba47z6"}
-{"time":"2026-03-17T16:22:40.015965+03:00","level":"INFO","msg":"sender: started","stream_id":"ihba47z6"}
-{"time":"2026-03-17T16:22:40.016134+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"ihba47z6"}
-{"time":"2026-03-17T16:22:41.045938+03:00","level":"INFO","msg":"Starting system monitor"}
-{"time":"2026-03-17T16:26:57.378841+03:00","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/files/workglebsol-own/AIOpsLab/ihba47z6/file_stream"}
-{"time":"2026-03-17T16:26:57.380354+03:00","level":"ERROR+4","msg":"filestream: fatal error: filestream: failed to upload: 404 Not Found path=files/workglebsol-own/AIOpsLab/ihba47z6/file_stream: {\"error\":\"run AIOpsLab/ihba47z6 not found while streaming file\"}"}

@@ -1,7 +1,0 @@
-{"time":"2026-03-18T12:33:31.325527+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/Users/glebsolanik/work/r_m_r/sbertech/sre/experiments/benchmarks/notebooks/wandb/run-20260318_123331-7n57if4x/logs/debug-core.log"}
-{"time":"2026-03-18T12:33:31.786635+03:00","level":"INFO","msg":"created new stream","id":"7n57if4x"}
-{"time":"2026-03-18T12:33:31.786865+03:00","level":"INFO","msg":"stream: started","id":"7n57if4x"}
-{"time":"2026-03-18T12:33:31.786929+03:00","level":"INFO","msg":"handler: started","stream_id":"7n57if4x"}
-{"time":"2026-03-18T12:33:31.787095+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"7n57if4x"}
-{"time":"2026-03-18T12:33:31.78717+03:00","level":"INFO","msg":"sender: started","stream_id":"7n57if4x"}
-{"time":"2026-03-18T12:33:32.475251+03:00","level":"INFO","msg":"Starting system monitor"}

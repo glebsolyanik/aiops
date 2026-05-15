@@ -1,9 +1,0 @@
-{"time":"2026-03-18T13:08:43.855909+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/Users/glebsolanik/work/r_m_r/sbertech/sre/experiments/benchmarks/notebooks/wandb/run-20260318_130843-hd9nq3pv/logs/debug-core.log"}
-{"time":"2026-03-18T13:08:44.319242+03:00","level":"INFO","msg":"created new stream","id":"hd9nq3pv"}
-{"time":"2026-03-18T13:08:44.319388+03:00","level":"INFO","msg":"stream: started","id":"hd9nq3pv"}
-{"time":"2026-03-18T13:08:44.319396+03:00","level":"INFO","msg":"handler: started","stream_id":"hd9nq3pv"}
-{"time":"2026-03-18T13:08:44.319533+03:00","level":"INFO","msg":"sender: started","stream_id":"hd9nq3pv"}
-{"time":"2026-03-18T13:08:44.319593+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"hd9nq3pv"}
-{"time":"2026-03-18T13:08:45.268621+03:00","level":"INFO","msg":"Starting system monitor"}
-{"time":"2026-03-18T13:09:31.270342+03:00","level":"INFO","msg":"Pausing system monitor"}
-{"time":"2026-03-18T13:09:31.274712+03:00","level":"INFO","msg":"Resuming system monitor"}
